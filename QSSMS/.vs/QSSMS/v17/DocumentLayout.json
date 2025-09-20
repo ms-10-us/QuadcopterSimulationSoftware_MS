@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|solutionrelative:QSSMS\\PlantModelParameters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|solutionrelative:QSSMS\\PlantModelParameters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C82AE0-53B6-4A3E-AF50-8BE95A7B37B2}|QSSMS\\QSSMS.vcxproj|solutionrelative:QSSMS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\main.cpp",
+              "RelativeDocumentMoniker": "QSSMS\\main.cpp",
+              "ToolTip": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\main.cpp",
+              "RelativeToolTip": "QSSMS\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T14:18:16.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantModelParameters.h",
+              "DocumentMoniker": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.h",
+              "RelativeDocumentMoniker": "QSSMS\\PlantModelParameters.h",
+              "ToolTip": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.h",
+              "RelativeToolTip": "QSSMS\\PlantModelParameters.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T14:22:26.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantModelParameters.cpp",
+              "DocumentMoniker": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.cpp",
+              "RelativeDocumentMoniker": "QSSMS\\PlantModelParameters.cpp",
+              "ToolTip": "C:\\Code\\QuadcopterSimulationSoftware_MS\\QSSMS\\QSSMS\\PlantModelParameters.cpp",
+              "RelativeToolTip": "QSSMS\\PlantModelParameters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T14:22:52.764Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
